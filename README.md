@@ -375,11 +375,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Project Lead**: [Your Name]
-- **Backend Developer**: [Name]
-- **Frontend Developer**: [Name]
-- **Data Scientist**: [Name]
-- **DevOps Engineer**: [Name]
+- **Project Lead**: Manan Sharma
+- **Backend Developer**: Tanishq Gupta
+- **Frontend Developer**: Akshitha
+- **Data Scientist**: Anurag Pandey
 
 ## 🙏 Acknowledgments
 
@@ -389,10 +388,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Email**: contact@grievancedetector.com
-- **Website**: https://grievancedetector.com
-- **Twitter**: [@GrievanceAI](https://twitter.com/GrievanceAI)
-- **Discord**: [Join our community](https://discord.gg/grievanceai)
+- **Email**: creativesparks00@gmail.com
 
 ## 📚 Documentation
 
