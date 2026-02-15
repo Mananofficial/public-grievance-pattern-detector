@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚨 Public Grievance Pattern Detector
 
 An AI-powered system that analyzes citizen complaints to detect recurring patterns, systemic failures, and emerging civic risks. Built to help municipal authorities respond faster and smarter to community needs.
@@ -431,3 +432,13 @@ A: Multi-tenancy support is planned for Phase 3. Currently single-instance per c
 **Built with ❤️ for smarter cities**
 
 *Making civic governance more responsive, one complaint at a time.*
+=======
+# public-grievance-pattern-detector
+AI system to detect patterns and risks from citizen complaints for preventive governance.
+
+## Problem Type
+AI for Smart Governance / Civic Tech
+
+## Impact
+Transforms complaint handling from reactive to preventive governance.
+>>>>>>> af1f74808904cf95d119dbd2c54aad6cc0a85102
