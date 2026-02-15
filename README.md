@@ -382,7 +382,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Built for [Hackathon Name]
+- Built for AI For Bharat
 - Inspired by civic tech initiatives worldwide
 - Thanks to open-source community for amazing tools
 
